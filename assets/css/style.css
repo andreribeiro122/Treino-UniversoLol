@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: MarK-Black;
+  src: url(../fonts/Mark-Black.woff);
+}
+
+@font-face {
+  font-family: MarK-Light;
+  src: url(../fonts/Mark-Medium.woff);
+}
+
+@font-face {
+  font-family: Mark-ExtraLight;
+  src: url(../fonts/Mark-Extralight.woff)
+}
+
