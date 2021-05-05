@@ -73,7 +73,7 @@ a {
   margin: 15px;
 }
 
-.div-img1-regions{
+.div-img1-regions {
   position: relative;
   width: 100%;
   height: 100%;
@@ -107,7 +107,7 @@ a {
   justify-content: space-around;
 }
 
-.align-img1-div{
+.align-img1-div {
   align-items: center;
   background-color: #010a13;
   border: 1px solid #1e2328;
@@ -118,6 +118,6 @@ a {
   font-size: 24px;
   color: white;
   text-transform: uppercase;
-  font-family::Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 15px!important;
 }
