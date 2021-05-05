@@ -502,7 +502,7 @@
 }
 
 .dropdown-universe .dropbtn-universe {
-  font-size: 11px;  
+  font-size: 11px;
   border: none;
   outline: none;
   color: white;
@@ -523,7 +523,7 @@
   position: absolute;
   background-color: black;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
@@ -558,18 +558,24 @@
   align-items: center;
 }
 
-.grid-background{
-  display: flex;
-  width: 100%;
+/* MAIN */
+
+.container-main {
+  width: 1200px;
+  margin: 0 auto;
 }
 
-.paralaxx{
+.paralaxx {
   background-image: url(../../assets/images/map-background.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: black;
   height: 1000px;
-  width: 1600px;
-  filter: brightness(30%);
+  width: 100%;
 }
 
+.span-regions span {
+  font-size: 60px;
+  font-family: Mark-Black;
+  color: white;
+}
